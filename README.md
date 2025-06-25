@@ -59,10 +59,11 @@ The visual results under the three degradation types are provided [here](https:/
 ### Citation
 If you use our work, please consider citing:
 ```bash
-@inproceedings{tian2025dfpir,
+@inproceedings{tian2025degradation,
   title={Degradation-Aware Feature Perturbation for All-in-One Image Restoration},
-  author={Xiangpeng Tian, Xiangyu Liao, Xiao Liu, Meng Li, Chao Ren},
-  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  author={Tian, Xiangpeng and Liao, Xiangyu and Liu, Xiao and Li, Meng and Ren, Chao},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={28165--28175},
   year={2025}
 }
 ```
