@@ -59,7 +59,9 @@ The visual results under the three degradation types are provided [here](https:/
 
 ### Python Runtime Environment
 python: 3.11.5
+
 pytorch: 2.1.1
+
 numpy: 1.26.0
 
 ### Citation
