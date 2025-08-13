@@ -57,6 +57,10 @@ Performance results of the DFPIR framework trained under the all-in-one setting.
 
 The visual results under the three degradation types are provided [here](https://pan.baidu.com/s/1xa_i7cbg5slEyLvBpC4JKg?pwd=lljd )(lljd).  The visual results under the five degradation types are provided [here](https://pan.baidu.com/s/1tfYrxfOI61om8QX9PnXLFA?pwd=tsbp)(tsbp).
 
+### Python Runtime Environment
+python: 3.11.5
+pytorch: 2.1.1
+numpy: 1.26.0
 
 ### Citation
 If you use our work, please consider citing:
