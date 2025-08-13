@@ -43,6 +43,8 @@ python test_5D_DFPIR.py
 
 The pretrained weights for the three distinct degradation types under simple prompts are provided [here](https://pan.baidu.com/s/1W8mjjSB4XiL70cVK9B9Eng  )(pa3a), while detail prompts are provided [here](https://pan.baidu.com/s/1hk5JgOpl3VYEsWEecPpJkg?pwd=tjkd  )(tjkd). The pretrained weights for the five degradation types are available [here](https://pan.baidu.com/s/1LhAsRq8t4dvaD-hC6yDZrA?pwd=q0sm)(q0sm) .
 
+We have also uploaded and shared the model weights on Google Drive. The link is: https://drive.google.com/drive/folders/15bOk4xrsK1b3nIu3-OzUj4O_ZssdFN5Y?usp=sharing
+
 ### Results
 Performance results of the DFPIR framework trained under the all-in-one setting.
 **Three Distinct Degradations**:
